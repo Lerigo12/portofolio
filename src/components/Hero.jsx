@@ -24,7 +24,7 @@ function Hero() {
         <div className="hero-text">
           <p className="hero-label">
             <span className="status-dot" />
-            PORTOFOLIO PERSONAL · 2026
+            PORTOFOLIO · 2026
           </p>
 
           <h1 className="hero-title">
@@ -60,7 +60,6 @@ function Hero() {
       </div>
 
       <div className="hero-bottom">
-        <span>BERBASIS DI INDONESIA</span>
         <span>WEB DEVELOPMENT</span>
       </div>
     </section>
