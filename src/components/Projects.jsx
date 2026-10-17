@@ -16,7 +16,7 @@ const projects = [
     name: 'Kedai Kopi Lens',
     category: 'LANDING PAGE',
     description:
-      'Website portofolio untuk menampilkan profil, kemampuan, dan proyek yang telah dikerjakan.',
+      'Landing page untuk orang-orang lebih tau apa itu kedai kopi lens',
     tech: ['HTML','CSS','JS'],
     image: '/images/projects/kedai-lens.png',
     github: 'https://github.com/Lerigo12/kedai-kopi-lens',
