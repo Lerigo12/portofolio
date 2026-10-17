@@ -34,7 +34,7 @@ function Hero() {
           </h1>
 
           <p className="hero-description">
-            Saya Achmad Naufal Ilhamdy, seorang pembelajar di bidang
+            Saya Achmad Naufal Ilhamdy, seorang pelajar di bidang
             teknologi yang membangun aplikasi web untuk menyelesaikan
             masalah nyata.
           </p>
